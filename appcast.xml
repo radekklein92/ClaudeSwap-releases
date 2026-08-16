@@ -7,14 +7,14 @@
     <language>cs</language>
   <item>
     <title>Verze 1.0.0</title>
-    <pubDate>Sun, 16 Aug 2026 18:51:41 +0000</pubDate>
+    <pubDate>Sun, 16 Aug 2026 19:01:16 +0000</pubDate>
     <sparkle:version>1.0.0</sparkle:version>
     <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/radekklein92/ClaudeSwap-releases/releases/download/v1.0.0/ClaudeSwap-1.0.0.dmg"
-               length="89526866"
+               length="89346867"
                type="application/octet-stream"
-               sparkle:edSignature="K8PHg/ubf6613NB5XwERRHEtiygrXOyTK1Qcmv0N6hydDJTzb8+cEsHhO642feLCpcF5Qbjf0KM1m3N3G1unAA==" />
+               sparkle:edSignature="roXYL6KgvgRq5uqxmOnfenmsR8u/a/W907sJGTUps1BIUZAYmdcBOYgztnICjsdCEWmRqslRULq8WR+7dGv4DA==" />
   </item>
   </channel>
 </rss>
