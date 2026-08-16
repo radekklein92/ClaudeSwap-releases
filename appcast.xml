@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ClaudeSwap by RETALES</title>
+    <link>https://raw.githubusercontent.com/radekklein92/ClaudeSwap-releases/main/appcast.xml</link>
+    <description>Aktualizace ClaudeSwap by RETALES</description>
+    <language>cs</language>
+  <item>
+    <title>Verze 1.0.0</title>
+    <pubDate>Sun, 16 Aug 2026 18:51:41 +0000</pubDate>
+    <sparkle:version>1.0.0</sparkle:version>
+    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure url="https://github.com/radekklein92/ClaudeSwap-releases/releases/download/v1.0.0/ClaudeSwap-1.0.0.dmg"
+               length="89526866"
+               type="application/octet-stream"
+               sparkle:edSignature="K8PHg/ubf6613NB5XwERRHEtiygrXOyTK1Qcmv0N6hydDJTzb8+cEsHhO642feLCpcF5Qbjf0KM1m3N3G1unAA==" />
+  </item>
+  </channel>
+</rss>
