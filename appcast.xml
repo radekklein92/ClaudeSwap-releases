@@ -6,17 +6,6 @@
     <description>Aktualizace ClaudeSwap by RETALES</description>
     <language>cs</language>
   <item>
-    <title>Verze 1.3.0</title>
-    <pubDate>Sat, 19 Sep 2026 22:55:40 +0000</pubDate>
-    <sparkle:version>1.3.0</sparkle:version>
-    <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-    <enclosure url="https://github.com/radekklein92/ClaudeSwap-releases/releases/download/v1.3.0/ClaudeSwap-1.3.0.dmg"
-               length="89569450"
-               type="application/octet-stream"
-               sparkle:edSignature="OZH/pkZ4S0ORRki2m5X+w+CjPQIAKdPFONjfZDHM0wkPEPYFq93rufqzXEvqqwmuelFrQcVNrhT/poQVwCTvCg==" />
-  </item>
-  <item>
     <title>Verze 1.2.1</title>
     <pubDate>Wed, 02 Sep 2026 08:54:57 +0000</pubDate>
     <sparkle:version>1.2.1</sparkle:version>
