@@ -6,6 +6,17 @@
     <description>Aktualizace ClaudeSwap by RETALES</description>
     <language>cs</language>
         <item>
+    <title>Verze 1.7.14</title>
+    <pubDate>Sun, 22 Nov 2026 14:53:58 +0000</pubDate>
+    <sparkle:version>1.7.14</sparkle:version>
+    <sparkle:shortVersionString>1.7.14</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure url="https://github.com/radekklein92/ClaudeSwap-releases/releases/download/v1.7.14/ClaudeSwap-1.7.14.dmg"
+               length="104362803"
+               type="application/octet-stream"
+               sparkle:edSignature="IVw75YjlQUTtR2KumLoEghnbpXdi+YFbdjXGPdoHv+derrUl+A/dTySrkBNE2IlOjmXDB4szyQPajVRh/k4EDQ==" />
+  </item>
+        <item>
     <title>Verze 1.7.13</title>
     <pubDate>Sun, 22 Nov 2026 13:40:49 +0000</pubDate>
     <sparkle:version>1.7.13</sparkle:version>
